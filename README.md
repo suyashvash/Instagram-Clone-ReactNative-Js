@@ -25,8 +25,7 @@ It is just an UI/ frontend.
 
 To watch the Demo or the Frontend .
 Check out my Instagram Reels 
-
-    @suyash.codes
+[here](https://www.instagram.com/suyash.codes/)
 
 Be sure to Follow for more amazing Projects in Different languages.
 
