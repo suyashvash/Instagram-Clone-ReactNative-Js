@@ -21,6 +21,15 @@ It is just an UI/ frontend.
 4. Profile Screen 
 
 
+## Components 
+
+1. Post Component
+2. Story Component
+3. Activity Component 
+4. Profile posts Componenet
+5. Search Screen Componenet 
+
+
 ## Demo or View
 
 To watch the Demo or the Frontend .
