@@ -45,18 +45,7 @@ const TabNavigator = createMaterialBottomTabNavigator(
         }  
     },
 
-    //   Upload: { screen: UploadScreen,  
-    //     navigationOptions:{  
-    //         tabBarLabel:'Upload',  
-    //         tabBarIcon: ({ tintColor }) => (  
-    //             <View>  
-    //                 <Icon style={[{color: tintColor}]} size={28} name={'add-circle-outline'}/>  
-    //             </View>),  
-    //         activeColor: '#000000',  
-    //         inactiveColor: '#000000',  
-              
-    //     }  
-    // },
+
 
     Activity:{ screen: ActivityScreen,
       navigationOptions:{
